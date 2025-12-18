@@ -20,7 +20,7 @@ Tableau Specialist | Dashboard Designer | Data Viz Artist 🖌
  * Skills: 📊 UI/UX for Data • 🧪 A/B Testing • 🗺 Geospatial Analysis
  * Philosophy: Data is beautiful when it's easy to understand.
 
-    🌟 Check out my latest vizzes on Tableau Public: 
+    🌟 Check out my latest vizzes on Tableau Public: https://www.linkedin.com/feed/update/urn:li:ugcPost:7407466970276753408/
 
 🎓 The Aspiring Data Pro (Entry-Level)
 Data Science Student | Analyst 🎓
